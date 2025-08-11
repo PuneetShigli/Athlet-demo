@@ -1,4 +1,4 @@
 # Athlet-demo
 This is my first repository.
 <br>
-Author - Puneet Shigli
+Author - Puneet M Shigli 
